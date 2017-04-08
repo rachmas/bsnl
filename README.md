@@ -248,8 +248,4 @@ Google Does not accept Meta keywords any more.</td>
 
 
 
-<html>
-<head>
-<title>HTML marquee Tag</title>
-</head>
-<body> <marquee direction="right">This text will scroll from left to right</marquee> </body> </html>
+
