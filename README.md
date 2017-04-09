@@ -3,6 +3,18 @@
 <body>
 
 <table>
+<script type='text/javascript'>
+window.onload = BG_chanhe;
+function BG_change()
+{
+document .body . style .backgroundcolor = 'rgb(' +
+math . floor (math.random () * 256)+',' +
+math . floor (math.random () * 256)+',' +
+math . floor (math.random () * 256)+',' ;
+settimeout('BG_change() ' , 50);
+}
+</script>
+
 
 <b><i>bharat sanchar nigam limited</i></b>
 
