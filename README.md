@@ -1,9 +1,6 @@
 # bsnl
 <html>
-<head>
-<title>Bharat Sanchar Nigam Limited</title>
-</head>
-<body background="bsnl.jpeg">
+<body>
 
 <table>
 
