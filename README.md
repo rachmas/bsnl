@@ -231,7 +231,7 @@ Google Does not accept Meta keywords any more.</td>
 
 
 <tr>
-<th>21/<th>
+<th>21</th>
 <th>grade:</th>
 <td>C</td>
 <td>Make the website seo friendly to increase the grade</td>
