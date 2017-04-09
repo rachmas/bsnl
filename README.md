@@ -9,7 +9,7 @@
 <b><i>bharat sanchar nigam limited</i></b>
 
 <tr>
-
+<th><b>s.no</b></th>
 <th><b> title</b></th>
 <td><b>description</b></td>
 <td><b>suggestion</b></td>
@@ -19,7 +19,7 @@
 </tr>
 
 <tr>
-
+<th>1</th>
 <th>page title</th>
 
 <td>Page title is of 28 character </td>
@@ -29,7 +29,7 @@
 </tr>
 
 <tr>
-
+<th>2</th>
 <th>meta description</th>
 <td>The meta description length of your page is 28 characters. s</td>
 <td>Use ‘-‘(hyphens) to separate keywords in the URLS. For example: www.domain.com/this-is-a-good-url.
@@ -40,7 +40,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
-
+<th>3</th>
 <th>keywords test</th>
 <td>There is likely no optimal keyword density</td>
 <td>search engine alogorithms have evolved beyond keyword density metrics as a significant ranking factor it can be useful however to note which keywords appear most often in the page and if they reflect the intended topic of your page more importantly the keywords in your page should appear within natural sounding and grammatically correct copy ⟩⟩ bsnl - 42 times
@@ -53,7 +53,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
-
+<th>4</th>
 <th>H1 tag</th>
 
 <td>No H1 headings Found</td>
@@ -64,7 +64,7 @@ Google Does not accept Meta keywords any more.</td>
 
 <tr>
 
-
+<th>5</th>
 <th>html page size test</th>
 
 <td>Your HTML size is 17.53 Kb and this is under the average web page size of 33 Kb. </td>
@@ -74,7 +74,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
-
+<th>6</th>
 <th>html compreession test</th>
 
 <td>Your page is successfully compressed using gzip compression on your code. </td>
@@ -85,7 +85,7 @@ Google Does not accept Meta keywords any more.</td>
 
 <tr>
 
-
+<th>7</th>
 <th>redirection Test</th>
 <td>Great, a redirect is in place to redirect traffic from your non-preferred domain</td>
 <td> your website directs www.bsnl.co.in and bsnl.co.in to the same URL.</td>
@@ -95,7 +95,7 @@ Google Does not accept Meta keywords any more.</td>
 
 <tr>
 
-
+<th>8</th>
 <th>Nofollow Tag Checker</th>
 <td>Your webpage does not use the nofollow meta tag.</td>
 <td>This means that search engins will crawl all links from your webpage.</td>
@@ -105,7 +105,7 @@ Google Does not accept Meta keywords any more.</td>
 
 <tr>
 
-
+<th>9</th>
 <th>Noindex Tag Checker</th>
 <td>our webpage does not use the noindex meta tag.</td>
 <td>This means that your webpage will be read and indexed by search engines.</td>
@@ -116,7 +116,7 @@ Google Does not accept Meta keywords any more.</td>
 
 <tr>
 
-
+<th>10</th>
 <th>H2 tags</th>
 <td>Your page contains few H2 headings, many of your headings are duplicate</td>
 <td>H2 tags are important to the search engines . Unlike the H1 tag, you may have multiple H3, H4, H5, and H6 sub-headings. These sub-headings as ways of organizing the content on your page for your readers more than for the search engines.</td>
@@ -131,7 +131,7 @@ Google Does not accept Meta keywords any more.</td>
 
 <tr>
 
-
+<th>11</th>
 <th>Site map</th>
 <td>We've found 1 sitemaps files for your website:
 ⟩⟩ http://www.bsnl.co.in/sitemap.xml</td>
@@ -146,7 +146,7 @@ Google Does not accept Meta keywords any more.</td>
 
 <tr>
 
-
+<th>12</th>
 <th>Disallow Directive Checker</th>
 <td>Your robots.txt file disallow the search engines access to some parts of your website</td>
 <td> You are advised to check carefully if the access to these resources or pages must be blocked.
@@ -161,7 +161,7 @@ Google Does not accept Meta keywords any more.</td>
 
 <tr>
 
-
+<th>13</th>
 <th>Broken Links Test</th>
 <td>From 191 distinct anchor links analyzed, none of them appears to be broken.</td>
 <td>Make sure that when you remove part of the URL the link does not lead to a non-valid page.</td>
@@ -170,7 +170,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
-
+<th>14</th>
 <th>image alt test</th>
 <td>Your webpage has 40 'img' tags and 20 of them missing the required 'alt' attribute.</td>
 <td>It is imp to have .The alt attribute's descriptive information is useful to assist visually impaired customers and search engine crawlers as they navigate the site.</td>
@@ -178,7 +178,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
-
+<th>15</th>
 <th>SEO Friendly URL Test</th>
 
 <td>150 internal urls found that are not seo friendly.</td>
@@ -188,7 +188,7 @@ Google Does not accept Meta keywords any more.</td>
 </tr>
 
 <tr>
-
+<th>16</th>
 <th>Domain Authority</th>
 
 <td>Domain Authority of your website is only -0</td>
@@ -199,7 +199,7 @@ Google Does not accept Meta keywords any more.</td>
 
 
 <tr>
-
+<th>17</th>
 <th>page Authority</th>
 
 <td>Domain Authority of your website is only -0</td>
@@ -208,18 +208,21 @@ Google Does not accept Meta keywords any more.</td>
 
 </tr>
 <tr>
+<th>18</th>
 <th>Robots.txt Test</th>
 <td>Your site use a "robots.txt" file: http://bsnl.co.in/robots.txt</td>
 <td>There are a few ways to block search engines from accessing a given domain: Block with Robots.tx. This tells the engines not to crawl the given URL, but that they may keep the page in the index and display it in results.</td>
 <td>good</td><br>
 </tr>
 <tr>
+<th>19</th>
 <th>Favicon Test</th>
 <td>Your website appears to have a favicon.</td>
 <td>Create a favourite icon to give your web site a more professional perspective.</td>
 <td>good</td><br>
 </tr>
 <tr>
+<th>20</th>
 <th>SEO Score:</th>
 <td>59</td>
 <td>Make the website seo friendly to increase the score</td>
@@ -228,12 +231,14 @@ Google Does not accept Meta keywords any more.</td>
 
 
 <tr>
+<th>21/<th>
 <th>grade:</th>
 <td>C</td>
 <td>Make the website seo friendly to increase the grade</td>
 <td>ok</td><br>
 </tr>
 <tr>
+<th>22</th>
 <th>Google Search Results Preview</th>
 <td>Bharat Sanchar Nigam Limited</td>
 <td>http://www.bsnl.co.in/</td>
