@@ -151,7 +151,7 @@ Google Does not accept Meta keywords any more.</td>
 <td>Your robots.txt file disallow the search engines access to some parts of your website</td>
 <td> You are advised to check carefully if the access to these resources or pages must be blocked.
 ⟩⟩ Disallow: http://www.bsnl.in/opencms/bsnl/BSNL/services/enterprises/epebx_tariff.html</td>
-<td>info</td><br>
+<td>not ok</td><br>
 
 </tr>
 
@@ -242,7 +242,7 @@ Google Does not accept Meta keywords any more.</td>
 <th>Google Search Results Preview</th>
 <td>Bharat Sanchar Nigam Limited</td>
 <td>http://www.bsnl.co.in/</td>
-<td>info</td><br>
+<td>ok</td><br>
 </tr>
 
 </table>
